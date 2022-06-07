@@ -2,3 +2,7 @@
 Ninja ninjaOne= new Ninja();
 
 ninjaOne.Eat(buffet.Serve());
+ninjaOne.Eat(buffet.Serve());
+ninjaOne.Eat(buffet.Serve());
+ninjaOne.Eat(buffet.Serve());
+ninjaOne.Eat(buffet.Serve());

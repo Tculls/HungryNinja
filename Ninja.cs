@@ -28,7 +28,7 @@ class Ninja
             Console.WriteLine($"Ninja just consumed {item.Name}");
             if (item.Spicy)
                 Console.WriteLine($"This {item.Name} is freakin spicy i need some milk");
-            if(item.Sweet)
+            if (item.Sweet)
                 Console.WriteLine($"{item.Name} has got some mad sugar this is not good for my longterm longevity");
         }
         else
